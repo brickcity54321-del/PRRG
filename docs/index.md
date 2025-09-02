@@ -14,7 +14,7 @@ layout: default
   "author": { "@type": "Person", "name": "Michael Bernard Kindle Jr" },
   "creator": { "@type": "Person", "name": "Michael Bernard Kindle Jr" },
   "publisher": { "@type": "Organization", "name": "Self-published" },
-  "url": "https://<your-username>.github.io/prrg/",
+  "url": "https://brickcity54321-del.github.io/prrg/",
   "sameAs": [
     "https://github.com/<your-username>/prrg"
   ]
