@@ -2,7 +2,24 @@
 title: PRRG — Pi Ringdown Redundancy Group
 layout: default
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Pi Ringdown Redundancy Group",
+  "alternateName": "PRRG",
+  "description": "A VRRP-based high-availability gateway pattern using Raspberry Pis to bridge Wi-Fi and Ethernet for automation.",
+  "termCode": "PRRG",
+  "dateCreated": "2025-08-31",
+  "author": { "@type": "Person", "name": "Michael Bernard Kindle Jr" },
+  "creator": { "@type": "Person", "name": "Michael Bernard Kindle Jr" },
+  "publisher": { "@type": "Organization", "name": "Self-published" },
+  "url": "https://<your-username>.github.io/prrg/",
+  "sameAs": [
+    "https://github.com/<your-username>/prrg"
+  ]
+}
+</script>
 # PRRG — Pi Ringdown Redundancy Group
 
 **Definition (canonical):**  
