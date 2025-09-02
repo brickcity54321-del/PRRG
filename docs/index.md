@@ -16,7 +16,7 @@ layout: default
   "publisher": { "@type": "Organization", "name": "Self-published" },
   "url": "https://brickcity54321-del.github.io/prrg/",
   "sameAs": [
-    "https://github.com/<your-username>/prrg"
+    "https://github.com/brickcity54321-del/prrg"
   ]
 }
 </script>
